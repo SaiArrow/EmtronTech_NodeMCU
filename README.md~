@@ -54,7 +54,7 @@ const char *pass =  "SSID_Password";
 
 
 
-6.Communication Between two NodeMCU's (CommServer CommClient)
+6.Communication Between two NodeMCU's
 
 Aim : To Communicate between two Desktops using Only NodeMCU's
 
